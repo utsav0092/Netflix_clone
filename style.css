@@ -240,9 +240,9 @@ section.first>div :nth-child(3) {
     font-size: 34px;
 }
 
-.faqbox svg {
+/* .faqbox svg {
     filter: invert(1);
-}
+} */
 
 .faqbox {
     font-size: 23px;
