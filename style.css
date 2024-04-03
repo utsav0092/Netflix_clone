@@ -150,10 +150,6 @@ nav button {
     color: gray;
 }
 
-/* .main input:hover {
-    border: solid lightgray 2px;
-} */
-
 .first {
     display: flex;
     justify-content: center;
@@ -181,13 +177,6 @@ nav button {
     }
 }
 
-/* .first-third .section-img:nth-child(0) {
-    position:absolute;
-    width: 295px;
-    top: 32px;
-    height: 158px;
-} */
-
 .section-img {
     position: relative;
 }
@@ -207,26 +196,20 @@ section.first>div :nth-child(3) {
     font-size: 24px;
 }
 
-/* section.first > div {
-    width: 30vw;
-} */
 
 .section-img img {
     width: 555px;
     position: relative;
     z-index: 10;
-    /* margin: 0 0 0 23px; */
 }
 
 .section-img video {
-    /* right: 273px;*/
     width: 76%;
     position: absolute;
     top: 112px;
     right: 60px;
 }
 
-/*Last question part*/
 .faq h2 {
     text-align: center;
     margin: 23px;
@@ -239,10 +222,6 @@ section.first>div :nth-child(3) {
     margin: 24px;
     font-size: 34px;
 }
-
-/* .faqbox svg {
-    filter: invert(1);
-} */
 
 .faqbox {
     font-size: 23px;
